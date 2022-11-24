@@ -1,5 +1,5 @@
 outs:
-- md5: 60903a7f664671dd59e4da7e0256e30d.dir
-  size: 10391656
-  nfiles: 21
+- md5: 0a60c151dc174791e3a1d53144aafa9e.dir
+  size: 11774457
+  nfiles: 16
   path: NER_annotated_v1
